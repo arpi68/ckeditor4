@@ -33,7 +33,7 @@ Use it on your website:
 <script src="./node_modules/ckeditor/ckeditor.js"></script>
 <script>
     CKEDITOR.replace( 'editor' );
-</script> 
+</script>
 ```
 
 ### Using [CDN](https://cdn.ckeditor.com/#ckeditor4)
@@ -137,6 +137,6 @@ Use the [CKEditor 4 GitHub issue page](https://github.com/ckeditor/ckeditor4/iss
 
 ### License
 
-Copyright (c) 2003-2019, CKSource - Frederico Knabben. All rights reserved.
+Copyright (c) 2003-2020, CKSource - Frederico Knabben. All rights reserved.
 
 For licensing, see LICENSE.md or [https://ckeditor.com/legal/ckeditor-oss-license](https://ckeditor.com/legal/ckeditor-oss-license)
